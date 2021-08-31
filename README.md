@@ -32,7 +32,14 @@ yet infectious), infectious (symptomatic and asymptomatic), recovered, dead, and
 nated cases, respectively. Thus, the human population is denoted by N(t) = S(t)+E(t)+
 I(t) + R(t) + D(t) + V (t).
 
-<img src="./model.jpg" alt="drawing" width="600"/>
+<img src="./model.jpg" alt="drawing" width="500"/>
+
+## Differential equations
+
+The model culminates to a six-dimensional system of ordinary differential equations as
+follows.
+
+
 
 ## Copasi Guideline:
 
