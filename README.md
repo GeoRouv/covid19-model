@@ -8,6 +8,20 @@
 - [Copasi](http://copasi.org/)  
 - [Jupyter](https://jupyter.org/) (or any notebook editor)
 
+## Introduction
+
+In early 2020, after a December 2019 outbreak in Wuhan-China, the World Health Organization identified SARS-CoV-2 as a new type of coronavirus. The outbreak quickly
+spread around the world raising global awareness.
+
+COVID-19 is a disease caused by SARS-CoV-2 that can trigger what medical experts call a respiratory tract infection. It can affect the upper respiratory tract (sinuses, nose, and throat) or lower respiratory tract (windpipe and lungs). It spreads the same way other coronaviruses do, mainly through person-to-person contact. Infections range from mild to deadly. SARS-CoV-2 is one of seven types of coronavirus, including the ones that cause severe diseases like Middle East respiratory syndrome (MERS) and sudden acute respiratory syndrome (SARS). The other coronaviruses cause most of the colds that affect us during the year but aren't a serious threat for otherwise healthy people. It is also normal for a virus to change, or mutate, as it infects people and this virus has done so. There are several variants which have been named for the regions they were first discovered but they have now spread to other areas and countries, some proving to be more contageous as well as more deadly.  
+
+The goal of this project is examine the impact of COVID-19 spread by using a custom
+epidemiological model. The model itself is an extended SEIR model comprising of six
+compartments corresponding to discrete human groups: susceptible, exposed, infectious,
+vaccined and recovered. The model parameters are initially calibrated according to the
+study performed by Mwalili et al.[2] and then the estimated set of model state and pa-
+rameters is used to assess the model prediction skill by investigating the initial COVID-19
+spread in Greece.
 
 ## Methods
 
@@ -81,6 +95,8 @@ and should be taken into consideration in future work.
 - To apply Sensitivity Analysis, head over to 'Tasks > Parameter Scan', press 'Create' and choose a global quantity. Then, you are ready to to apply sensitivity analysis by pressing 'Run'.
 
 Change parameters to your liking
+
+**Read the full report for details and results - discussion**
 
 ## References
 
