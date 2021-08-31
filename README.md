@@ -32,6 +32,7 @@ yet infectious), infectious (symptomatic and asymptomatic), recovered, dead, and
 nated cases, respectively. Thus, the human population is denoted by N(t) = S(t)+E(t)+
 I(t) + R(t) + D(t) + V (t).
 
+<img src="./model.jpg" alt="drawing" width="600"/>
 
 ## Copasi Guideline:
 
