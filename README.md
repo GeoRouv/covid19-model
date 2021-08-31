@@ -39,7 +39,7 @@ I(t) + R(t) + D(t) + V (t).
 The model culminates to a six-dimensional system of ordinary differential equations as
 follows.
 
-
+<img src="./diff_equations.png" alt="drawing" width="500"/>
 
 ## Copasi Guideline:
 
