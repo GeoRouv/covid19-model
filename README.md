@@ -4,6 +4,7 @@
 ## Requirements
 
 [Copasi](http://copasi.org/)
+[Jupyter](https://jupyter.org/) (or any notebook editor)
 
 ## Copasi Guideline:
 
@@ -13,4 +14,4 @@
 
 - To apply Sensitivity Analysis, head over to 'Tasks > Parameter Scan', press 'Create' and choose a global quantity. Then, you are ready to to apply sensitivity analysis by pressing 'Run'.
 
-- Change parameters to your liking
+Change parameters to your liking
