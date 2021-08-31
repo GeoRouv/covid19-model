@@ -35,7 +35,7 @@ utilized as an epidemic simulator since the the biochemical reactions networks r
 the viruses behaviour.
 
 As an extra step, the same model without the vaccination part, was implemented in
-python (*see SIERD_model*) for this project as well.
+python (*see [SIERD_model.ipynb](./src/SIERD_model.ipynb)*) for this project as well.
 
 ## Model
 
@@ -57,7 +57,7 @@ follows.
 
 ## Model Parameters
 
-The parameters used in the COVID-19 transmission model direntials equations are given
+The parameters used in the COVID-19 transmission model differentials equations are given
 in the following table.
 
 |Model parameter name   |Meaning	           |Case/Reference	 |
