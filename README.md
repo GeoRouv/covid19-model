@@ -64,3 +64,12 @@ in the following table.
 
 Change parameters to your liking
 
+## References
+
+[1] E. O.-O. Max Roser, Hannah Ritchie and J. Hasell. Coronavirus pandemic (covid-19).
+Our World in Data, 2020. https://ourworldindata.org/coronavirus.  
+[2] S. Mwalili, M. Kimathi, V. Ojiambo, D. Gathungu, and R. Mbogo. SEIR model
+for COVID-19 dynamics incorporating the environment and social distancing. BMC
+Research Notes, 13(1), July 2020.  
+[3] W. C. Roda, M. B. Varughese, D. Han, and M. Y. Li. Why is it diffcult to accurately
+predict the COVID-19 epidemic? Infectious Disease Modelling, 5:271{281, 2020.  
