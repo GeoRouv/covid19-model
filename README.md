@@ -41,6 +41,19 @@ follows.
 
 <img src="./diff_equations.png" alt="drawing" width="350"/>
 
+## Model Parameters
+
+The parameters used in the COVID-19 transmission model direntials equations are given
+in the following table.
+
+|Model parameter name   |Meaning	           |Case/Reference	 |
+| --------------------- | ------------------ | --------------- | 
+|alpha	                |Vaccination rate	   |0.04 per day [1] |
+|beta	                  |Contact rate	       |ASSUMED	         |
+|gamma                  |Mean recovery rate  |0.06 per day [2] |
+|sigma	                |Incubation rate	   |0.09 [2]         |
+|p_d	                  |Covid Fatality rate |0.0018 [2]       |
+
 ## Copasi Guideline:
 
 - Import *SIERD-V.cps* into COPASI
