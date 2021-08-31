@@ -96,7 +96,7 @@ and should be taken into consideration in future work.
 
 Change parameters to your liking
 
-**Read the [full report](./) for details and results - discussion**
+**Read the [full report](./Report.pdf) for details and results - discussion**
 
 ## References
 
