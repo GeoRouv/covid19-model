@@ -54,6 +54,24 @@ in the following table.
 |sigma	                |Incubation rate	   |0.09 [2]         |
 |p_d	                  |Covid Fatality rate |0.0018 [2]       |
 
+## Assumptions
+
+Needless to say, a few assumptions were made, in order to accomodate the COPASI model
+and provide basic but solid predictions. First of all, the human population is considered
+constant involving no natural deaths and births. Travelling from region to region is also
+not included in the general schema.  
+
+Regarding the transmission, human are the only vessels of the virus so no other pathogenic
+factors exist in the specifc context. Moreover, there are no reinfections for humans that
+have already recovered or been vaccinated. Consequently, the latter gain full immunity
+once they have been vaccinated. Also, it is worth stressing that the rate of successful
+immunization by vaccination is not considered.  
+
+Some effects like seasonal effects, natural deaths or births have not been considered in this
+model, since their effect is not as crucial as the aforementioned. However, compartments
+or parameters like quarantine and reinfections may enhance the overall model performance
+and should be taken into consideration in future work.
+
 ## Copasi Guideline:
 
 - Import *SIERD-V.cps* into COPASI
