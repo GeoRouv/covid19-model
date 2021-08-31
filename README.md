@@ -3,7 +3,7 @@
 
 ## Requirements
 
-[Copasi](http://copasi.org/)
+[Copasi](http://copasi.org/)  
 [Jupyter](https://jupyter.org/) (or any notebook editor)
 
 ## Copasi Guideline:
