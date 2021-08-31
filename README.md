@@ -1,7 +1,7 @@
 # covid-compartmental-model
 📈 Examine the impact of COVID-19 spread by using a custom epidemiological model.
 
-![alt text](./intro_image "Logo Title Text 1")
+![alt text](./intro_image.jpg "Logo Title Text 1")
 
 
 ## Requirements
